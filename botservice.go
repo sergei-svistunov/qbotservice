@@ -1,4 +1,4 @@
-package botservice
+package qbotservice
 
 import (
 	"context"
